@@ -1,0 +1,9 @@
+[package]
+name = "rekord-list"
+version = "0.1.0"
+authors = ["Philip Diaz <lambdahands@gmail.com>"]
+
+[dependencies]
+regex = "1.1.0"
+prettytable-rs = "0.8"
+lazy_static = "1.2.0"
